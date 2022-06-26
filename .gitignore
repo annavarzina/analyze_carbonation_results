@@ -1,0 +1,24 @@
+.idea/*
+# python
+*.pyc
+
+# data
+*.csv
+*.npy
+*.zip
+*.gz
+*.xlsx
+*.json
+*.pickle
+*.pkl
+*.txt
+
+# figures
+*.png
+*.pdf
+
+# other
+*.DS_Store
+*.geojson
+*.html
+*.ipynb_checkpoints

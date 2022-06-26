@@ -1,0 +1,16 @@
+
+scikit-learn
+scipy
+numpy
+pandas
+pyarrow
+pathlib
+matplotlib
+plotly
+seaborn
+bokeh
+plotnine
+jupyterlab
+jupyterlab-code-formatter
+jupyter-packaging
+jupyterlab-execute-time
